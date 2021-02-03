@@ -38,7 +38,7 @@
     "node-fetch": "^1.7.3",
     "pbf": "^3.1.0",
     "rbush": "^2.0.1",
-    "simplify-js": "^1.2.1",
+    "simplify-js": "^1.2.4",
     "string-width": "^2.1.1",
     "term-mouse": "^0.2.0",
     "userhome": "^1.0.0",
