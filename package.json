@@ -33,7 +33,7 @@
     "bluebird": "^3.5.1",
     "bresenham": "0.0.4",
     "coffee-script": "^1.12.7",
-    "earcut": "^2.1.2",
+    "earcut": "^2.2.2",
     "keypress": "^0.2.1",
     "node-fetch": "^1.7.3",
     "pbf": "^3.1.0",
